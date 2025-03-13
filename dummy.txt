@@ -1,3 +1,7 @@
 I am the Half bloodprince
+<<<<<<< Updated upstream
 My house id Grfinddor 
 Elder wand
+=======
+Elder wand
+>>>>>>> Stashed changes
